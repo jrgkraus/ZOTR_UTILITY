@@ -1,3 +1,6 @@
+# Motivation
+For language dependent user interface texts, we used to use text elements in the last decade. However, there is a more modern option for storing texts: the online text repository, that came with BSP and WebDynpro technology, and is used also by exception classes. What if we want to use this also in our application classes? Here is a package, that offers two classes for an easy usage of OTR texts. They are intended to be used for inheritance.
+
 # The SAP basics
 Apart from the well-known text elements in programs, SAP offers a more modern way to use language-dependent texts: the online text repository (OTR).
 
